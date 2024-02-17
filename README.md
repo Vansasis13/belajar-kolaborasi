@@ -4,7 +4,6 @@ Belajar melakukan merge squash change
 >Berikut macam merge yang ada yaitu
  - Merge commit
  - Squash and merge
- - Rebase and merge
-   
->Pahamilah masing-masing fungsi diatas dengan baik dan benar ya!
-***Happy Learning***
+ - Rebase and merge 
+>Pahamilah masing-masing fungsi diatas dengan baik dan benar ya! <br>
+>***Happy Learning***
