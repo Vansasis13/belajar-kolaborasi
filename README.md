@@ -6,5 +6,5 @@ Belajar melakukan merge squash change
  - Squash and merge
  - Rebase and merge
    
->Pahamilah masing-masing fungsi diatas dengan baik dan benar ya!
+>Pahamilah masing-masing fungsi diatas dengan baik dan benar ya! <br>
 ***Happy Learning***
