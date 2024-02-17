@@ -5,3 +5,5 @@ Belajar melakukan merge squash change
  - Merge commit
  - Squash and merge
  - Rebase and merge
+   
+>Pahamilah masing-masing fungsi diatas dengan baik dan benar ya!
