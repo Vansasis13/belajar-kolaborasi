@@ -1,2 +1,7 @@
 # belajar-kolaborasi
 Belajar melakukan merge squash change
+*Saatnya melakukan pembelajar melalui pull request*<br>
+>Berikut macam merge yang ada yaitu
+ - Merge commit
+ - Squash and merge
+ - Rebase and merge
